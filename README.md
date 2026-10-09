@@ -6,6 +6,7 @@ I'm a student at the College of Computer and Information Sciences, King Saud Uni
 
 | Project | Description | Built with |
 |---|---|---|
+| [Nabeeh App](https://github.com/raghadzworld/2025-GP1-1) | Graduation project: an assistive system for deaf and hard-of-hearing users, with an Android app and an AI-powered wearable that detects critical sounds and turns them into alerts | Flutter, Dart, Firebase, Python |
 | [Nabeeh Watch](https://github.com/lRenadl/Nabeeh-Watch) | Smartwatch firmware for deaf and hard-of-hearing users that shows sound alerts as Arabic text or sign language | C/C++, ESP32, LVGL |
 | [Beyond the Canvas](https://github.com/lRenadl/Beyond-the-canvas) | Detects emotional signals in children's drawings by comparing several deep learning models, with a live web demo | Python, TensorFlow, Flask |
 | [Hate Speech Detection](https://github.com/lRenadl/Hate-Speech-Detection) | Data science pipeline on Reddit, Twitter and YouTube comments, from collection to prediction | Python, Jupyter |
@@ -17,8 +18,9 @@ I'm a student at the College of Computer and Information Sciences, King Saud Uni
 
 ## Skills
 
-- **Languages:** Python, Java, C/C++, JavaScript, PHP, SQL
+- **Languages:** Python, Java, C/C++, Dart, JavaScript, PHP, SQL
 - **Machine learning and data:** TensorFlow, Keras, Jupyter Notebook
+- **Mobile:** Flutter, Firebase
 - **Web:** HTML, CSS, JavaScript, PHP, MySQL, Flask
 - **Embedded:** ESP32, PlatformIO, LVGL
 - **Tools:** Git, GitHub, NetBeans, Visual Studio Code
