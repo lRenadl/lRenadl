@@ -1,6 +1,6 @@
 # Hi, I'm Renad Alowais
 
-I'm a student at the College of Computer and Information Sciences, King Saud University. I enjoy building projects across machine learning, embedded systems and web development, usually as part of a team.
+I focus on AI and machine learning. I build ML projects end to end, from collecting data and training models to deploying them in real applications such as web demos, mobile apps and wearable devices.
 
 ## Featured Projects
 
@@ -18,9 +18,9 @@ I'm a student at the College of Computer and Information Sciences, King Saud Uni
 
 ## Skills
 
+- **AI and machine learning:** TensorFlow, Keras, deep learning, classification, clustering, NLP
+- **Deploying AI:** Flask, Firebase, ESP32 wearables
 - **Languages:** Python, Java, C/C++, Dart, JavaScript, PHP, SQL
-- **Machine learning and data:** TensorFlow, Keras, Jupyter Notebook
-- **Mobile:** Flutter, Firebase
-- **Web:** HTML, CSS, JavaScript, PHP, MySQL, Flask
+- **Mobile and web:** Flutter, HTML, CSS, JavaScript, PHP, MySQL
 - **Embedded:** ESP32, PlatformIO, LVGL
-- **Tools:** Git, GitHub, NetBeans, Visual Studio Code
+- **Tools:** Git, GitHub, Jupyter Notebook, Visual Studio Code
